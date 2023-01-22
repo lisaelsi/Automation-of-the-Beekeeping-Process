@@ -6,6 +6,7 @@
 *Chalmers University of Technology* \
 *Gothenburg, Sweden 2022*
 
+https://odr.chalmers.se/items/0789202b-0d08-47bf-a619-4f92c6b30e23
 
 ### Abstract ### 
 As pollinators, bees are important contributors to the global food production and to the preservation of biodiversity. The aim of this project is to create a web application for beekeepers with which they can monitor their beehives. Such an application would reduce the workload of beekeepers and benefit the health of the bee colony. The final application presents data
