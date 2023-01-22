@@ -1,3 +1,13 @@
+## Automation of the Beekeeping Process ##
+### Real-time analysis of sensor data from beehives using machine learning ###
+
+*Bachelor Thesis by Tuss Anzelius, Måns Josefsson, Lisa Samuelsson Kevin Svensson, Filip Rydin and Lovisa Åkesson* \
+*Department of Physics* \
+*Chalmers University of Technology* \
+*Gothenburg, Sweden 2022*
+
+
+### Abstract ### 
 As pollinators, bees are important contributors to the global food production and to the preservation of biodiversity. The aim of this project is to create a web application for beekeepers with which they can monitor their beehives. Such an application would reduce the workload of beekeepers and benefit the health of the bee colony. The final application presents data
 about the environment in the beehive (including weight, temperature and humidity) as well
 as indications of the presence of a queen bee, how many varroa mites are detected and if a
