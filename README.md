@@ -1,7 +1,7 @@
 ## Automation of the Beekeeping Process ##
 ### Real-time analysis of sensor data from beehives using machine learning ###
 
-*Bachelor Thesis by Tuss Anzelius, Måns Josefsson, Lisa Samuelsson Kevin Svensson, Filip Rydin and Lovisa Åkesson* \
+*Bachelor Thesis by Tuss Anzelius, Måns Josefsson, Lisa Samuelsson, Kevin Svensson, Filip Rydin and Lovisa Åkesson* \
 *Department of Physics* \
 *Chalmers University of Technology* \
 *Gothenburg, Sweden 2022*
